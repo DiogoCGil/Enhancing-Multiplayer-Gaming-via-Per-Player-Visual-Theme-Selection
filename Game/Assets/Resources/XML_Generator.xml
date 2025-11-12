@@ -1,0 +1,200 @@
+<Tese>
+    <caracterModel>
+        <WildWest>AvatarWildWest</WildWest>
+        <Futurist>AvatarFuturist</Futurist>
+    </caracterModel>
+    <SkyBox>
+        <WildWest>SkyBox1</WildWest>
+        <Futurist>SkyBox2</Futurist>
+    </SkyBox>
+    <Rain>
+        <WildWest>False</WildWest>
+        <Futurist>True</Futurist>
+    </Rain>
+    <Particals>
+        <WildWest>WildWestEffect</WildWest>
+        <Futurist>FuturistEffect</Futurist>
+    </Particals>
+    <GunSound>
+        <WildWest>Som3</WildWest>
+        <Futurist>Som2</Futurist>
+    </GunSound>
+    <AmbientSounds>
+        <WildWest>Music1</WildWest>
+        <Futurist>Music2</Futurist>
+    </AmbientSounds>
+    <AmbientSounds2>
+        <WildWest>AmbientSounds1</WildWest>
+        <Futurist>AmbientSounds2</Futurist>
+    </AmbientSounds2>
+    <BackGround>
+        <WildWest>WildWest</WildWest>
+        <Futurist>Futurist</Futurist>
+    </BackGround>
+
+    <Prefabs>
+        <WildWest>
+            <Buildings>
+                <pref>House_WildWest</pref>
+            </Buildings>
+
+            <Buildings2>
+                <pref>House2_WildWest</pref>
+            </Buildings2> 
+             
+            <Box>
+                <Material>OldWestBoxMaterial</Material>
+            </Box>
+
+            <Ground>
+                <Material>OldWestGroundMaterial</Material>
+            </Ground>
+
+            <Fences>
+                <pref>Fence_WildWest</pref>
+            </Fences>
+
+            <Wall>
+                <Material>Walls_Material_WildWest</Material>
+            </Wall>
+                
+            <Bed>
+                <pref>Bed_WildWest</pref>
+            </Bed>
+
+            <Complex>
+                <pref>Complex_WildWest</pref>
+            </Complex>
+            
+            <Fun>
+                <pref>Fun_WildWest</pref>       
+            </Fun>
+            
+            <chair>
+                <pref>Cadeira_WildWest</pref>
+            </chair>
+            
+            <Stairs>
+                <pref>Stairs_WildWest</pref>
+            </Stairs>
+            
+            <Column>
+                <pref>Column_WildWest</pref>
+            </Column>
+            
+            <Platform>
+                <pref>Floor_WildWest</pref>     
+            </Platform>
+            
+            <Barrels>
+                <pref>Barrel_WildWest</pref>
+            </Barrels>
+            
+            <Shelf>
+                <pref>Shelf_WildWest</pref>
+            </Shelf>
+
+            <Door>
+                <pref>Door_WildWest</pref>
+            </Door>
+
+            <Tables>
+                <pref>Table_WildWest</pref>
+            </Tables>
+
+            <Floor>
+                <Material>Floor_WildWest</Material>
+            </Floor>
+
+            <Prefab_Extra>
+                <pref>Prefab_Extra_WildWest</pref>
+            </Prefab_Extra>
+            <light>
+                <pref>Light_WildWest</pref>
+            </light>
+            <Tree>
+            <pref>TreeWildWest</pref>
+            </Tree>
+        </WildWest>
+
+        <Futurist>
+            <Buildings>
+                <pref>House_Futurist</pref>
+            </Buildings>
+            <Buildings2>
+                <pref>House2_Futurist</pref>
+            </Buildings2>
+            <Box>  
+                <Material>FuturistBoxMaterial</Material>
+            </Box>
+
+            <Ground>
+                <Material>FutureGroundMaterial</Material>
+            </Ground>
+         
+            <Fences>
+                <pref>Fence_Futurist</pref>
+            </Fences>
+        
+            <Wall>
+                <Material>WallsFuturist</Material>
+            </Wall>
+                
+            <Bed>
+                <pref>Bed_Futurist</pref>
+            </Bed>
+
+            <Complex>
+                <pref>Complex_Futurist</pref>
+            </Complex>
+            
+            <Fun>
+                <pref>Fun_Futurist</pref>
+            </Fun>
+            
+            <chair>
+                <pref>Cadeira_Futurist</pref>
+            </chair>
+            
+            <Stairs>
+                <pref>Stairs_Futurist</pref>
+            </Stairs>
+            
+            <Column>
+                <pref>Column_Futurist</pref>
+            </Column>
+            
+            <Platform>
+                <pref>Floor_Futurist</pref>
+            </Platform>
+            
+            <Barrels>
+                <pref>Barrel_Futurist</pref>
+            </Barrels>
+            
+            <Shelf>
+                <pref>Shelf_Futurist</pref>
+            </Shelf>
+            <Door>
+                <pref>Door_Futurist</pref>
+            </Door>
+            <Tables>
+                <pref>Table_Futurist</pref>
+            </Tables>
+            <Floor>
+                <Material>Floor_Futurist</Material>
+            </Floor>
+
+            <Prefab_Extra>
+                <pref>Prefab_Extra_Futurist</pref>
+            </Prefab_Extra>
+            <light>
+                <pref>Light_Futurist</pref>
+            </light>
+            <Tree>
+                <pref>TreeFuturist</pref>
+            </Tree>
+        </Futurist>
+    </Prefabs>
+    
+</Tese>
